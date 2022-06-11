@@ -6,8 +6,16 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
+<div><h2>🏆 Award</h2></div>
+<li>제 4회 모비우스 개발자 대회 장려상</li> 
+
 <div><h2>✍ Education</h2></div>
-KB국민은행 IT아카데미 IT's your life 1기 2022.02 ~ 2022.05
+<li>KB국민은행 IT아카데미 IT's your life 1기 2022.03.02 ~ 2022.05.25</li> 
+
+<div><h2>📜 Certification</h2></div>
+<li>정보처리기사 </li> 
+<li>SQL개발자(SQLD)</li> 
+<li>Mos PowerPoint</li> 
 
 <div><h2>📚 STACKS</h2></div>
 
