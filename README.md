@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 <div><h2>🏆 Award</h2></div>
 <li>2019 학술제 '치매전문병원 관리 시스템' 우수상 2019.11.14</li>  
@@ -59,6 +57,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekJeongEun&show_icons=true&theme=radical)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 
 <!--
@@ -67,7 +67,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Spring boot, 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
