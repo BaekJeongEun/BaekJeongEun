@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 <div><h2>🏆 Award</h2></div>
 <li>2019 학술제 '치매전문병원 관리 시스템' 우수상 2019.11.14</li>  
