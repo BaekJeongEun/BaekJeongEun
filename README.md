@@ -7,9 +7,9 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <br>
