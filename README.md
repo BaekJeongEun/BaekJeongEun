@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=Waving&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=Waving&text=JeongEun&fontAlign=30&fontSize=40&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
 
 ### Hi there 👋
 
