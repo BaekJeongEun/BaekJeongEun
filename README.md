@@ -7,10 +7,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 <div><h2>🏆 Award</h2></div>
-<li>2019 학술제 치매전문병원 관리 시스템 우수상 2019.11.14</li>  
+<li>2019 학술제 '치매전문병원 관리 시스템' 우수상 2019.11.14</li>  
 <li>제 4회 KETI 모비우스 개발자 대회 장려상 2020.09.10</li> 
-<li>2020 학술제 PPG센서와 딥러닝을 활용한 Cuff-less 혈압계 모니터링 시스템 장려상 2020.11.26</li>
-<li>2021 학술제 간편 처방전달시스템 웹 어플리케이션 장려상 2020.11.26</li>
+<li>2020 학술제 'PPG센서와 딥러닝을 활용한 Cuff-less 혈압계 모니터링 시스템' 장려상 2020.11.26</li>
+<li>2021 학술제 '간편 처방전달시스템 웹 어플리케이션' 장려상 2020.11.26</li>
 
 <div><h2>✍ Education</h2></div>
 <li>KB국민은행 IT아카데미 IT's your life 1기 2022.03.02 ~ 2022.05.25</li> 
