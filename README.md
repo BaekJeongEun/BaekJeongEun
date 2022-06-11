@@ -20,7 +20,7 @@
 <li>Mos PowerPoint</li> 
 
 <div><h2>📖 Contact</h2></div>
-<span><a href="[https://snowwhite1106.tistory.com/](https://snowwhite1106.tistory.com/)"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://snowwhite1106.tistory.com/"/></a>  <a href="mailto:sophia991106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophia991106@gmail.com"/></a></span>
+<span><a href="https://snowwhite1106.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://snowwhite1106.tistory.com/"/></a>  <a href="mailto:sophia991106@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sophia991106@gmail.com"/></a></span>
 
 <div><h2>📚 STACKS</h2></div>
 
