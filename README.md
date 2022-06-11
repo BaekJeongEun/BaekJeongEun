@@ -6,8 +6,10 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
+<div><h2>✍ Education</h2></div>
+KB국민은행 IT아카데미 IT's your life 1기 2022.02 ~ 2022.05
 
-<div><h1>📚 STACKS</h1></div>
+<div><h2>📚 STACKS</h2></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
