@@ -7,7 +7,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ghkdlxld1999)](https://solved.ac/ghkdlxld1999)
 
 <div><h2>🏆 Award</h2></div>
-<li>제 4회 모비우스 개발자 대회 장려상</li> 
+<li>제 4회 KETI 모비우스 개발자 대회 장려상 2020.09.10</li> 
 
 <div><h2>✍ Education</h2></div>
 <li>KB국민은행 IT아카데미 IT's your life 1기 2022.03.02 ~ 2022.05.25</li> 
