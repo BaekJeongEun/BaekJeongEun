@@ -17,6 +17,7 @@
 <div><h2>📜 Certification</h2></div>
 <li>정보처리기사 </li> 
 <li>SQL개발자(SQLD)</li> 
+<li>Coding Specialist Professional 1급 (Java)</li> 
 <li>Mos PowerPoint</li> 
 
 <div><h2>📖 Contact</h2></div>
