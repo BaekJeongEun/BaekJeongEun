@@ -11,7 +11,7 @@
 <li>2020 제 4회 KETI 모비우스 개발자 대회 장려상 2020.09.10</li> 
 
 <div><h2>✍ Education</h2></div>
-<li>삼성 청년 SW 아카데미 8기 2022.07.06 ~ ing</li> 
+<li>삼성 청년 SW 아카데미 8기 2022.07.06 ~ 2023.06.15</li> 
 <li>KB국민은행 IT아카데미 IT's your life 1기 2022.03.02 ~ 2022.05.25</li>
 
 <div><h2>📜 Certification</h2></div>
